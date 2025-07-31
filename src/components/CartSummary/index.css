@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.summary-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 20px;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+  width: 100%;
+}
